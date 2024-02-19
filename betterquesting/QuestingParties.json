@@ -1,0 +1,54 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "status:8": "OWNER",
+          "uuid:8": "5b14c2d8-6255-49bb-a4b9-04bc5a6f8884"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "New Party"
+        }
+      }
+    },
+    "1:10": {
+      "members:9": {
+        "0:10": {
+          "status:8": "MEMBER",
+          "uuid:8": "139c3120-b2a7-3076-94ce-7cb9f13e2aa6"
+        },
+        "1:10": {
+          "status:8": "MEMBER",
+          "uuid:8": "6e98c49e-ced0-4468-9de9-35b5d1487169"
+        },
+        "2:10": {
+          "status:8": "OWNER",
+          "uuid:8": "406ae174-a8d9-11ee-9b08-f02f74958d22"
+        }
+      },
+      "partyID:3": 1,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": ""
+        }
+      }
+    },
+    "2:10": {
+      "members:9": {
+        "0:10": {
+          "status:8": "OWNER",
+          "uuid:8": "fd3553d3-6072-3d65-8ab2-e3f9672a614d"
+        }
+      },
+      "partyID:3": 2,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "New Party"
+        }
+      }
+    }
+  }
+}

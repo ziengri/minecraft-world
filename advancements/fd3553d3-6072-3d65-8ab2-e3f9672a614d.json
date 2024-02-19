@@ -1,0 +1,60 @@
+{
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2024-02-18 19:46:43 +0300"
+    },
+    "done": true
+  },
+  "gregtech:medium_voltage/42_kanthal_coil": {
+    "criteria": {
+      "location": "2024-02-18 19:46:43 +0300"
+    },
+    "done": true
+  },
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2024-02-18 19:46:25 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/cable_glass": {
+    "criteria": {
+      "certus": "2024-02-18 19:46:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-02-18 19:46:43 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit2": "2024-02-18 19:46:43 +0300"
+    },
+    "done": false
+  },
+  "gregtech:medium_voltage/32_electric_drill": {
+    "criteria": {
+      "location": "2024-02-18 19:46:43 +0300"
+    },
+    "done": true
+  },
+  "gregtech:steam/2_more_tools": {
+    "criteria": {
+      "location": "2024-02-18 19:46:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2024-02-18 19:48:22 +0300",
+      "frozen_river": "2024-02-18 19:49:25 +0300",
+      "plains": "2024-02-18 19:46:25 +0300",
+      "ice_mountains": "2024-02-18 19:48:34 +0300",
+      "river": "2024-02-18 19:48:31 +0300"
+    },
+    "done": false
+  }
+}
